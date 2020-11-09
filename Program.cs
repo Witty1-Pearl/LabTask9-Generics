@@ -24,7 +24,10 @@ namespace IntergenicResearchLibray
                library.Add(library5);  
              
 
-            library.GetDefaulter();
+            foreach (var item in library.GetDefaulter())
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
