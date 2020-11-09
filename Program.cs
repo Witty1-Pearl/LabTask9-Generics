@@ -14,7 +14,7 @@ namespace IntergenicResearchLibray
                 Library library5 = new Library(5, 7, 2020, 10, 7, 2020, "Billy", "100 level", "Literature of History", "BB435", "Carren","Pale Yellow", "AR123");
 
 
-            GenericDefaulterList<IDefaulters> library = new GenericDefaulterList<IDefaulters>(6); 
+            GenericDefaulterList<IDefaultersList> library = new GenericDefaulterList<IDefaultersList>(6); 
 
 
                library.Add(library1);                     

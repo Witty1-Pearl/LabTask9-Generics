@@ -134,5 +134,4 @@ namespace IntergenicResearchLibray
         {
             return $"{GetName()}\n{GetYear()}\n{GetBook()}\n{GetDateIssue()}\n{GetDateReturn()}\n{GetDefaulter()}\n";
         }    
-    }   
-}
+}   }   

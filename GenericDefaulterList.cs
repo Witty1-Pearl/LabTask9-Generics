@@ -6,7 +6,7 @@ namespace IntergenicResearchLibray
     {
         private T[] studentDefaulters;      // StudentDefaulters is declared but not initialized
         private int numElements;    
-        private const int DEFAULTSIZE = 20;
+        private const int DEFAULTSIZE = 0;
         private int numElements = 0;
         
         
