@@ -1,0 +1,4 @@
+C:\CodebitsAcademy\C#\LabTask9-Generics\IntergenicResearchLibray\obj\Debug\netcoreapp3.1\IntergenicResearchLibray.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#\LabTask9-Generics\IntergenicResearchLibray\obj\Debug\netcoreapp3.1\IntergenicResearchLibray.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#\LabTask9-Generics\IntergenicResearchLibray\obj\Debug\netcoreapp3.1\IntergenicResearchLibray.AssemblyInfo.cs
+C:\CodebitsAcademy\C#\LabTask9-Generics\IntergenicResearchLibray\obj\Debug\netcoreapp3.1\IntergenicResearchLibray.csproj.CoreCompileInputs.cache
