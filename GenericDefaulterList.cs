@@ -4,9 +4,8 @@ namespace IntergenicResearchLibray
 {
      public class GenericDefaulterList<T> where T : IDefaulterList
     {
-        private T[] studentDefaulters;      // StudentDefaulters is declared but not initialized
-        private int numElements;    
-        private const int DEFAULTSIZE = 0;
+        private T[] studentDefaulters;      // StudentDefaulters is declared but not initialized    
+        private const int DEFAULTSIZE = 10;
         private int numElements = 0;
         
         

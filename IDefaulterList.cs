@@ -1,6 +1,6 @@
 namespace IntergenicResearchLibray
 {
-    public class IDefaulterList
+    public interface IDefaulterList
     {
         string GetName();
         string GetYear();
